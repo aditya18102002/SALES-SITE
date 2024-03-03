@@ -1,0 +1,26 @@
+Hallo mam/sir this is aditya patidar ,student of your FSD course
+this backend module 4 assignment which is sale app ,in this assingnment 
+i coevered all those things which is mentioned in module question paper.
+
+
+NOTE :- DATA IN THIS TYPED MANUALY JUST FOR USER INTERFACE 
+
+COMPONENT:-
+1. Add Sale
+2. Login
+3. Register
+4. Todayrevenue
+5. Top5sale
+6. Index
+
+
+PROCESS :-
+
+Firstly i installed all depedencies like bootstrap, react-router-dom , axios
+then make all component which is mentioned above then add bootstrap navbar in index.js component and add form in login ,register component.
+link all component in index.js in navbar then i add link of google font in index.html in public then add google font in app.css 
+then i use router-dom for routing so i link router in app.js , at end make it responsive like only small devices navbar collapes 
+.i checked all component are responsive.
+finally output is look like as well as mentioned in module statement. if any thing is missing or incorrect please suggest me .
+
+
